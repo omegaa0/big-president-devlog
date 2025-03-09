@@ -1,9 +1,21 @@
 {
-  "version": "0.2",
-  "date": "09.03.2025",
-  "changes": [
-    "Ülke bilgi paneli eklendi.",
-    "Dinamik döviz kuru ve ticaret fiyatlandırma sistemi geliştirildi.",
-    "Menü panellerinin hareket ettirilebilme özelliği eklendi."
+  "devlogs": [
+    {
+      "version": "0.2",
+      "date": "10.03.2025",
+      "changes": [
+        "Yeni ülke bilgi paneli eklendi.",
+        "Döviz kuru ve dinamik ticaret fiyatlandırma geliştirildi.",
+        "Menü panellerinin hareket ettirilebilmesi sağlandı."
+      ]
+    },
+    {
+      "version": "0.1",
+      "date": "08.03.2025",
+      "changes": [
+        "İlk devlog yayınlandı.",
+        "Temel ticaret sistemi oluşturuldu."
+      ]
+    }
   ]
 }
