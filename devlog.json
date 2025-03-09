@@ -1,0 +1,9 @@
+{
+  "version": "0.2",
+  "date": "09.03.2025",
+  "changes": [
+    "Ülke bilgi paneli eklendi.",
+    "Dinamik döviz kuru ve ticaret fiyatlandırma sistemi geliştirildi.",
+    "Menü panellerinin hareket ettirilebilme özelliği eklendi."
+  ]
+}
