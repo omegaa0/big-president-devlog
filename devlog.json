@@ -1,10 +1,16 @@
 {
   "devlogs": [
     {
-      "version": "0.3",
-      "date": "10.03.2025",
+      "version": "0.2.5",
+      "date": "16.03.2025",
       "changes": [
         "deneme",
+        "Oyuna diplomasi puanı (DP) eklendi.",
+        "Her ülkenin diplomasi puanı ve günlük artışı farklı.",
+        "Artık ülkelerle İttifak kurma/bozma, İlişkileri geliştirme, Hakaret etme, Ticaret sözleşmesi, Ambargo uygulama gibi diplomatik seçenekler uygulayabilirsiniz.",
+        "Butonların üstüne gelince işlevleri Tooltip'te görünüyor.",
+        "Her diplomatik karara DP maliyeti eklendi.",
+        "(FIXED) Standart ilişkisi 50 olan ülkelerle ilişki geliştirme veya kötüleştirme çalışmıyordu düzeltildi.",
         
       ]
     },
