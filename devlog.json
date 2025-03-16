@@ -1,7 +1,7 @@
 {
   "devlogs": [
     {
-      "version": "0.2.5",
+      "version": "0.1.2",
       "date": "16.03.2025",
       "changes": [
         "Oyuna diplomasi puanı (DP) eklendi.",
@@ -15,7 +15,7 @@
     },
     
     {
-      "version": "0.2",
+      "version": "0.1.1",
       "date": "10.03.2025",
       "changes": [
         "Yeni ülke bilgi paneli eklendi.",
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "version": "0.1",
+      "version": "0.1.0",
       "date": "08.03.2025",
       "changes": [
         "İlk devlog yayınlandı.",
