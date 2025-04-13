@@ -1,5 +1,19 @@
 {
   "devlogs": [
+    
+    {
+      "version": "0.1.2.5",
+      "date": "13.04.2025",
+      "changes": [
+        "Ekonomik panel ve vergi türleri eklendi.  (Gelir, kurum, gümrük)",
+        "Döviz mekaniği daha detaylı geliştirildi ve bazı hatalar düzeltildi.",
+        "Ticaret menüsünde fiyatların yan tarafında dolar üzerinden fiyat göstergesi de eklendi.",
+        "Seçim puanı eklendi her 4 yılda 1 seçim puanı 50'nin altına indiğinde oyunu kaybedersin.",
+        "Vergilerin arttırılması veya azaltılması, ülkeye inşa edilen sanayi binaları seçim puanının artmasını yada azalmasını etkiliyor."
+        
+        
+      ]
+    },
     {
       "version": "0.1.2.4",
       "date": "05.04.2025",
