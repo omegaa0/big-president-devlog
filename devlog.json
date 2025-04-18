@@ -1,6 +1,16 @@
 {
   "devlogs": [
-    
+    {
+      "version": "0.1.2.6",
+      "date": "19.04.2025",
+      "changes": [
+        "Merkez bankası eklendi.",
+        "Merkez bankasından faizi azaltıp veya arttırıp GSHY ve döviz kuruna etki edebileceksiniz.",
+        "Kredi çekme ve kredi notu eklendi.",
+        "Diğer ülkelerden veya dünya bankasından kredi miktarı ve vade seçip kredi alabileceksiniz."
+       
+      ]
+    },
     {
       "version": "0.1.2.5",
       "date": "13.04.2025",
