@@ -1,6 +1,16 @@
 {
   "devlogs": [
     {
+      "version": "0.1.2.7",
+      "date": "20.04.2025",
+      "changes": [
+        "Bütçe sayısı 247483647'i geçmiyordu düzeltildi.",
+        "Aktif Krediler artık erkenden ödenebiliyor.",
+        "Ekonomik menüde ki GSHY göstergesi 122.333 den > 122 milyar veya milyon olarak gözüküyor."
+  
+      ]
+    },
+    {
       "version": "0.1.2.6",
       "date": "19.04.2025",
       "changes": [
