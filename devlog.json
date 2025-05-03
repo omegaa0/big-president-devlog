@@ -1,6 +1,20 @@
 {
   "devlogs": [
     {
+      "version": "0.1.3.0",
+      "date": "04.05.2025",
+      "changes": [
+        "Küçük hatalar düzeltildi.",
+        "Koalisyon Mekaniği eklendi.",
+        "Koalisyonlara katılma, ayrılma özellikleri eklendi.",
+        "Koalisyon Liderleri koalisyonu dağıtma, davet etme, tür ve lider değiştirme özellikleri eklendi.",
+        "Yeni Koalisyon kurma eklendi.",
+        "Bazı UI geliştirmeleri yapıldı."
+  
+      ]
+    },
+    
+    {
       "version": "0.1.2.8",
       "date": "21.04.2025",
       "changes": [
