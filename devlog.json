@@ -1,6 +1,24 @@
 {
   "devlogs": [
     {
+      "version": "0.1.3.2",
+      "date": "08.06.2025",
+      "changes": [
+        "Koalisyon sistemi Kuruluş sistemiyle değiştirildi.",
+        "Artık farklı kuruluşlar kurulabilir siyasi, ekonomik, askeri",
+        "Kuruluşlara bonus avantajlar eklendi.",
+        "Kuruluşlara katılma ve aidat ücreti eklendi..",
+        "Kuruluşlara prestij eklendi ve yıldızla sembol olarak gözüküyor.",
+        "Kuruluşlara katılırken artık üyelik tipini seçebiliyorsunuz ve ona göre giriş ve aidat ücretiniz değişiyor.",
+        "Kuruluş kurarken kuruluşunuzun türünü ve etki alanını seçebiliyorsunuz.",
+        "Bazı UI geliştirmeleri yapıldı.",
+        "Kuruluşu Yönet paneli eklendi. (daha fazla özellik eklenecek)"
+  
+      ]
+    },
+    
+    
+    {
       "version": "0.1.3.1",
       "date": "24.05.2025",
       "changes": [
